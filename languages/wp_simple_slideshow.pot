@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Simple Slideshow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-13 16:59+0900\n"
+"PO-Revision-Date: 2012-09-13 16:59+0900\n"
+"Last-Translator: kumagai <kumagai.t@firestelement.jp>\n"
+"Language-Team: FirstElement <info@firstelement.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../delete_pic.php:22
+#: ../delete_pic.php:24
+#: ../delete_pic.php:62
+#: ../delete_pic.php:91
+msgid "消去"
+msgstr ""
+
+#: ../delete_pic.php:39
+msgid "サーバー上から消去する画像を選択してください。(現在フォトギャラリーに使用しているものは表示されません。)"
+msgstr ""
+
+#: ../delete_pic.php:54
+msgid "この画像を消去"
+msgstr ""
+
+#: ../delete_pic.php:90
+msgid "これらの画像を消去してよろしいすでか？"
+msgstr ""
+
+#: ../delete_pic.php:91
+msgid "キャンセル"
+msgstr ""
+
+#: ../delete_pic.php:93
+msgid "何も選択されていませんでした"
+msgstr ""
+
+#: ../delete_pic.php:94
+#: ../wp_simple_slideshow.php:259
+#: ../wp_simple_slideshow.php:275
+#: ../wp_simple_slideshow.php:493
+msgid "戻る"
+msgstr ""
+
+#: ../delete_pic.php:126
+msgid "削除エラー"
+msgstr ""
+
+#: ../delete_pic.php:146
+msgid "選択された画像を消去しました。"
+msgstr ""
+
+#: ../image_reduction.php:7
+msgid "GDが有効では有りません"
+msgstr ""
+
+#: ../image_reduction.php:40
+msgid "画像を縮小できませんでした"
+msgstr ""
+
+#: ../js.php:6
+msgid "接続エラー"
+msgstr ""
+
+#: ../uplord_pic.php:27
+#: ../uplord_pic.php:47
+msgid "アップロード"
+msgstr ""
+
+#: ../uplord_pic.php:37
+msgid "アップロードしたい画像データを選択してください。(アップロードできる枚数は50枚までです)"
+msgstr ""
+
+#: ../uplord_pic.php:54
+msgid "既に５０枚アップされています。新しくアップする場合は古い画像を削除してください。"
+msgstr ""
+
+#: ../uplord_pic.php:72
+msgid "画像選択されていませんでした。もう一度選択してください。"
+msgstr ""
+
+#: ../uplord_pic.php:91
+msgid "画像アップロード用のフォルダを作成できませんでした。"
+msgstr ""
+
+#: ../uplord_pic.php:91
+#: ../uplord_pic.php:102
+msgid "に書き込み権限が有りません。"
+msgstr ""
+
+#: ../uplord_pic.php:98
+msgid "アップロードエラー"
+msgstr ""
+
+#: ../uplord_pic.php:105
+msgid "ファイルサイズが大きいです。"
+msgstr ""
+
+#: ../uplord_pic.php:119
+msgid "正常にアップロードが終了しました。"
+msgstr ""
+
+#: ../uplord_pic.php:128
+msgid "アップロード可能な画像はJpeg・PNGです。"
+msgstr ""
+
+#: ../uplord_pic.php:131
+msgid "アップロードできる枚数は５０枚までです。すでに５０枚アップされています。"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:103
+#: ../wp_simple_slideshow.php:177
+msgid "画像アップロード"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:104
+msgid "画像削除"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:144
+msgid "画像選択"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:150
+msgid "フォトギャラリーに表示させる画像を選択してください。"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:165
+#: ../wp_simple_slideshow.php:167
+msgid "表示"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:173
+#: ../wp_simple_slideshow.php:230
+#: ../wp_simple_slideshow.php:258
+#: ../wp_simple_slideshow.php:286
+#: ../wp_simple_slideshow.php:291
+msgid "設定"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:176
+msgid "画像がアップロードされていません"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:184
+msgid "プレビュー"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:191
+msgid "コード"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:195
+msgid "スライドショーを表示したい場所にショートコードを記載して下さい。"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:203
+msgid "スライドショー設定"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:207
+#: ../wp_simple_slideshow.php:427
+msgid "表示高さ"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:210
+msgid "表示横幅"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:213
+#: ../wp_simple_slideshow.php:445
+msgid "奇数番目スライドイン量"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:216
+#: ../wp_simple_slideshow.php:454
+msgid "偶数番目スライドイン量"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:219
+#: ../wp_simple_slideshow.php:463
+msgid "切り替わり時間"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:219
+#: ../wp_simple_slideshow.php:222
+msgid "ミリ秒"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:220
+msgid "写真を切り替えるエフェクトに要する時間です。"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:222
+#: ../wp_simple_slideshow.php:472
+msgid "切り替わり間隔"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:223
+msgid "次の写真に切り替わるまでの間隔の設定です。"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:226
+msgid "アップロード画像のリサイズ"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:227
+msgid "有効にすると画像が上記で設定した大きさにトリミングされます。"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:227
+msgid "GDが入っている必要が有ります。"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:236
+msgid "このプラグインに関するお問い合わせ"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:254
+#: ../wp_simple_slideshow.php:272
+msgid "フォトギャラリー"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:255
+msgid "表示する順番を指定してください。"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:273
+msgid "画像の選択は正常に終了しました。"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:306
+#: ../wp_simple_slideshow.php:399
+msgid "ファイルエラー"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:306
+#: ../wp_simple_slideshow.php:399
+msgid "が開けませんでした。"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:357
+msgid "番目に表示する"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:415
+msgid "順番"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:415
+msgid "が複数あります。"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:430
+#: ../wp_simple_slideshow.php:439
+#: ../wp_simple_slideshow.php:448
+#: ../wp_simple_slideshow.php:457
+#: ../wp_simple_slideshow.php:466
+#: ../wp_simple_slideshow.php:475
+#: ../wp_simple_slideshow.php:484
+msgid "OK"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:433
+#: ../wp_simple_slideshow.php:442
+#: ../wp_simple_slideshow.php:469
+#: ../wp_simple_slideshow.php:478
+msgid "数字を1以上入力して下さい"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:436
+msgid "表示幅"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:451
+#: ../wp_simple_slideshow.php:460
+#: ../wp_simple_slideshow.php:487
+msgid "数字を入力して下さい"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:481
+msgid "画像リサイズ"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:492
+msgid "設定完了しました"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:495
+msgid "設定に失敗した項目が有ります！"
+msgstr ""
+
+#: ../wp_simple_slideshow.php:505
+msgid "スライドショー準備中"
+msgstr ""
+
